@@ -2,10 +2,6 @@
 
 A full-stack task management application built with **Express.js**, **MongoDB**, and **Vanilla JavaScript**. This application provides a clean, responsive interface for managing tasks with features like priority levels, due dates, categories, and real-time statistics.
 
-![Task Management App](https://via.placeholder.com/800x400/1976d2/ffffff?text=Task+Management+App)
-
-## ✨ Features
-
 ### 🎯 Core Functionality
 
 - ✅ **CRUD Operations** - Create, Read, Update, Delete tasks
@@ -60,13 +56,6 @@ task-management-app/
 - **Responsive Design** - Mobile-first approach
 
 ## 🚀 Quick Start
-
-### Prerequisites
-
-- **Node.js** (v14 or higher) - [Download here](https://nodejs.org/)
-- **MongoDB** - [Local installation](https://www.mongodb.com/try/download/community) or [MongoDB Atlas](https://www.mongodb.com/atlas)
-- **Git** - [Download here](https://git-scm.com/)
-
 ### Installation
 
 1. **Clone the repository**
@@ -100,14 +89,6 @@ task-management-app/
    # Windows
 
    net start MongoDB
-
-   # macOS (with Homebrew)
-
-   brew services start mongodb-community
-
-   # Linux
-
-   sudo systemctl start mongod
    \`\`\`
 
 5. **Start the application**
